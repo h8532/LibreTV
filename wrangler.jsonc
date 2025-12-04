@@ -1,0 +1,5 @@
+{
+  "name": "lunatv-pages-worker",
+  "main": "_worker.js",
+  "compatibility_date": "2024-12-04"
+}
